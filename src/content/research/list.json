@@ -1,5 +1,194 @@
 [
   {
+    "title": "Tailored Primitive Initialization is the Secret Key to Reinforcement Learning",
+    "authors": [
+      "Yihang Yao",
+      "Guangtao Zeng",
+      "Raina Wu",
+      "Yang Zhang",
+      "Ding Zhao",
+      "Zhang-Wei Hong",
+      "Chuang Gan"
+    ],
+    "year": "2026",
+    "url": "https://arxiv.org/abs/2511.12429",
+    "paper": "https://arxiv.org/abs/2511.12429",
+    "preview": "https://arxiv.org/html/2511.12429v1/x1.png",
+    "category": "Foundation Models",
+    "conference": "ACL 2026"
+  },
+  {
+    "title": "Steering LLM Thinking with Budget Guidance",
+    "authors": [
+      "Junyan Li",
+      "Wenshuo Zhao",
+      "Yang Zhang",
+      "Chuang Gan"
+    ],
+    "year": "2026",
+    "url": "https://arxiv.org/abs/2506.13752",
+    "paper": "https://arxiv.org/abs/2506.13752",
+    "code": "https://github.com/UMass-Embodied-AGI/BudgetGuidance",
+    "preview": "https://arxiv.org/html/2506.13752v1/x1.png",
+    "category": "Foundation Models",
+    "conference": "ACL 2026 (Findings)"
+  },
+  {
+    "title": "GHOST: Hierarchical Sub-Goal Policies for Generalizing Robot Manipulation",
+    "authors": [
+      "Sriram Krishna",
+      "Ben Eisner",
+      "Haotian Zhan",
+      "Ying Yuan",
+      "Haoyu Zhen",
+      "Chuang Gan",
+      "Shubham Tulsiani",
+      "David Held"
+    ],
+    "year": "2026",
+    "url": "https://ghost-human-demo.github.io/",
+    "website": "https://ghost-human-demo.github.io/",
+    "paper": "https://ghost-human-demo.github.io/ghost.pdf",
+    "code": "https://github.com/r-pad/lfd3d",
+    "preview": "https://ghost-human-demo.github.io/figs/ghost-teaser.png",
+    "category": "Embodied Intelligence",
+    "conference": "RSS 2026"
+  },
+  {
+    "title": "DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics",
+    "authors": [
+      "Junyi Cao",
+      "Yian Wang",
+      "Ziyan Xiong",
+      "Chunru Lin",
+      "Zhehuan Chen",
+      "Chuang Gan"
+    ],
+    "year": "2026",
+    "url": "https://icml.cc/virtual/2026/poster/63391",
+    "category": "Physical Intelligence",
+    "conference": "ICML 2026"
+  },
+  {
+    "title": "LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior",
+    "authors": [
+      "Qinhong Zhou",
+      "Chuang Gan",
+      "Anoop Cherian"
+    ],
+    "year": "2026",
+    "url": "https://icml.cc/virtual/2026/poster/64415",
+    "category": "Embodied Intelligence",
+    "conference": "ICML 2026"
+  },
+  {
+    "title": "DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation",
+    "authors": [
+      "Tuan Duc Ngo",
+      "Jiahui Huang",
+      "Seoung Wug Oh",
+      "Kevin Blackburn-Matzen",
+      "Evangelos Kalogerakis",
+      "Chuang Gan",
+      "Joon-Young Lee"
+    ],
+    "year": "2026",
+    "url": "https://arxiv.org/abs/2603.03744",
+    "paper": "https://arxiv.org/pdf/2603.03744",
+    "github": "https://github.com/ngoductuanlhp/DAGE",
+    "preview": "https://ngoductuanlhp.github.io/dage-site/projects/dage/videos/dage_teaser.mp4",
+    "category": "Spatial Intelligence",
+    "conference": "CVPR 2026"
+  },
+  {
+    "title": "Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens",
+    "authors": [
+      "Zeyuan Yang",
+      "Xueyang Yu",
+      "Delin Chen",
+      "Maohao Shen",
+      "Chuang Gan"
+    ],
+    "year": "2026",
+    "url": "https://arxiv.org/abs/2506.17218",
+    "website": "https://vlm-mirage.github.io/",
+    "paper": "https://arxiv.org/abs/2506.17218",
+    "github": "https://github.com/UMass-Embodied-AGI/Mirage",
+    "preview": "https://vlm-mirage.github.io/static/videos/video_demo.mp4",
+    "category": "Multimodal Language Models",
+    "conference": "CVPR 2026"
+  },
+  {
+    "title": "BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization",
+    "authors": [
+      "Iris Xu",
+      "Guangtao Zeng",
+      "Zexue He",
+      "Charles Jin",
+      "Aldo Pareja",
+      "Dan Gutfreund",
+      "Chuang Gan",
+      "Zhang-Wei Hong"
+    ],
+    "year": "2026",
+    "url": "https://arxiv.org/abs/2512.23631",
+    "paper": "https://arxiv.org/pdf/2512.23631",
+    "github": "https://github.com/iamxjy/BOAD-SWE-Agent",
+    "preview": "/research/BOAD.png",
+    "category": "Agentic Intelligence",
+    "conference": "ICLR 2026"
+  },
+  {
+    "title": "PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement",
+    "authors": [
+      "Yian Wang",
+      "Han Yang",
+      "Minghao Guo",
+      "Xiaowen Qiu",
+      "Johnson (Tsun-Hsuan) Wang",
+      "Wojciech Matusik",
+      "Joshua B Tenenbaum",
+      "Chuang Gan"
+    ],
+    "year": "2026",
+    "website": "https://physcensis.github.io/",
+    "paper": "https://openreview.net/pdf?id=aCVfhY4Qen",
+    "preview": "/research/PhyScensis.png",
+    "category": "Physical Intelligence",
+    "conference": "ICLR 2026"
+  },
+  {
+    "title": "Virtual Community: An Open World for Humans, Robots, and Society",
+    "authors": [
+      "Qinhong Zhou*",
+      "Hongxin Zhang*",
+      "Xiangye Lin*",
+      "Zheyuan Zhang*",
+      "Yutian Chen",
+      "Wenjun Liu",
+      "Zunzhe Zhang",
+      "Sunli Chen",
+      "Lixing Fang",
+      "Qiushi Lyu",
+      "Xinyu Sun",
+      "Jincheng Yang",
+      "Zeyuan Wang",
+      "Bao Chi Dang",
+      "Zhehuan Chen",
+      "Daksha Ladia",
+      "Jiageng Liu",
+      "Chuang Gan"
+    ],
+    "year": "2026",
+    "url": "https://virtual-community-ai.github.io/",
+    "website": "https://virtual-community-ai.github.io/",
+    "code": "https://github.com/UMass-Embodied-AGI/Virtual-Community",
+    "paper": "https://virtual-community-ai.github.io/paper.pdf",
+    "preview": "https://virtual-community-ai.github.io/_astro/demo.JCrCm2Oo.mp4",
+    "category": "Embodied Intelligence",
+    "conference": "ICLR 2026"
+  },
+  {
     "title": "Articulate Anymesh: Open-Vocabulary 3D Articulated Objects Modeling",
     "authors": [
       "Xiaowen Qiu",
@@ -150,37 +339,6 @@
     "category": "Physical Intelligence",
     "conference": "NeurIPS 2025"
   },
-  {
-    "title": "Virtual Community: An Open World for Humans, Robots, and Society",
-    "authors": [
-      "Qinhong Zhou*",
-      "Hongxin Zhang*",
-      "Xiangye Lin*",
-      "Zheyuan Zhang*",
-      "Yutian Chen",
-      "Wenjun Liu",
-      "Zunzhe Zhang",
-      "Sunli Chen",
-      "Lixing Fang",
-      "Qiushi Lyu",
-      "Xinyu Sun",
-      "Jincheng Yang",
-      "Zeyuan Wang",
-      "Bao Chi Dang",
-      "Zhehuan Chen",
-      "Daksha Ladia",
-      "Jiageng Liu",
-      "Chuang Gan"
-    ],
-    "year": "2025",
-    "url": "https://virtual-community-ai.github.io/",
-    "website": "https://virtual-community-ai.github.io/",
-    "code": "https://github.com/UMass-Embodied-AGI/Virtual-Community",
-    "paper": "https://virtual-community-ai.github.io/paper.pdf",
-    "preview": "https://virtual-community-ai.github.io/_astro/demo.JCrCm2Oo.mp4",
-    "category": "Embodied Intelligence",
-    "conference": "arXiv 2025"
-  },  
   {
     "title": "TesserAct: Learning 4D Embodied World Models",
     "authors": [
