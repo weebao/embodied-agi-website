@@ -1,5 +1,73 @@
 [
   {
+    "title": "Better Call CineCrew: Consistent Ultra-Long Narrative-to-Film Generation",
+    "authors": [
+      "Jiaben Chen*",
+      "Sixun Dong*",
+      "Qinhong Zhou",
+      "Raine Ma",
+      "Zhiyang Dou",
+      "Wojciech Matusik",
+      "Chuang Gan"
+    ],
+    "year": "2026",
+    "category": "Learning World Models",
+    "preview": "/research/BetterCallCineCrew.png",
+    "conference": "ECCV 2026"
+  },
+  {
+    "title": "Fast Spatial Memory with Scalable Elastic Test-Time Training",
+    "authors": [
+      "Ziqiao Ma*",
+      "Xueyang Yu*",
+      "Haoyu Zhen",
+      "Yuncong Yang",
+      "Joyce Chai",
+      "Chuang Gan"
+    ],
+    "year": "2026",
+    "url": "https://fast-spatial-memory.github.io/",
+    "website": "https://fast-spatial-memory.github.io/",
+    "paper": "https://arxiv.org/abs/2604.07350",
+    "code": "https://github.com/Mars-tin/fast-spatial-mem",
+    "category": "Spatial Intelligence",
+    "preview": "https://fast-spatial-memory.github.io/static/images/teaser.png",
+    "conference": "ECCV 2026"
+  },
+  {
+    "title": "3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing",
+    "authors": [
+      "Haoyu Zhen*",
+      "Xiaolong Li*",
+      "Yilin Zhao*",
+      "Han Zhang",
+      "Sifei Liu",
+      "Kaichun Mo",
+      "Chuang Gan",
+      "Subhashree Radhakrishnan"
+    ],
+    "year": "2026",
+    "url": "https://arxiv.org/abs/2603.22279",
+    "paper": "https://arxiv.org/abs/2603.22279",
+    "category": "Spatial Intelligence",
+    "preview": "https://arxiv.org/html/2603.22279v1/x1.png",
+    "conference": "ECCV 2026"
+  },
+  {
+    "title": "Sentinel: Embodied Cooperative Spatial Reasoning and Planning",
+    "authors": [
+      "Xiangye Lin*",
+      "Hongxin Zhang*",
+      "Ruxi Deng",
+      "Qinhong Zhou",
+      "Chuang Gan"
+    ],
+    "year": "2026",
+    "category": "Embodied Intelligence",
+    "preview": "/research/Sentinel.png",
+    "conference": "ECCV 2026"
+  },
+  {
     "title": "Tailored Primitive Initialization is the Secret Key to Reinforcement Learning",
     "authors": [
       "Yihang Yao",
